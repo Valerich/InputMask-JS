@@ -12,6 +12,7 @@ input {
     min-width: 200px;
     max-width: 350px;
 }
+
 .error {
     border: 2px solid #ff0000;
     color: #ff0000;
