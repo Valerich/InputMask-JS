@@ -1,0 +1,18 @@
+.box {
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    font-size: 35px;
+    padding: 10px;
+    border: 1px solid #8e8e8e;
+    min-width: 200px;
+    max-width: 300px;
+}
+
+input:focus {
+    outline: none;
+}
